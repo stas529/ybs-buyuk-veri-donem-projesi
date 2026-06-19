@@ -21,5 +21,4 @@ YBS DONEM PROJESI: VERI KAYNAKLARI VE PROJE DOKUMANTASYONU
      teknik destek hızı ve memnuniyet puanları.
 
 ----------------------------------------------------------------
-NOT: Projenin calısabilmesi icin yukaridaki 3 veri dosyasının 
-kod dosyası (.ipynb) ile aynı dizinde bulunması gerekmektedir.
+
